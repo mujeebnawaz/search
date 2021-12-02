@@ -10,7 +10,7 @@ Information Retrieval Model Based on Elastic Search and Docker.
 ** Note: Unix based OS is preferred, however, since Search Engine is docker based 
 the Search Engine will be functional on any OS. **
 
-### Running the app
+### Running the Application.
 
 In the terminal, go to the root of the project and type:
 `docker-compose up -d`
@@ -129,7 +129,7 @@ Response
 ```
 
 ---
-### Demo
+### Demonstration:
 #### Requirements
 
 - Python 3.x
