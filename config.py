@@ -1,0 +1,6 @@
+import os
+
+
+ELASTICSEARCH_HOST = os.environ.get("ELASTICSEARCH_HOST", "0.0.0.0")
+ELASTICSEARCH_PORT = os.environ.get("ELASTICSEARCH_PORT", 9200)
+DOC_INDEX_NAME = "documents"
